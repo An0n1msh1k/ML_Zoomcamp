@@ -1,0 +1,9 @@
+.venv
+__pycache__
+*.ipynb
+.ipynb_checkpoints
+.git
+.gitignore
+data/
+test_service.py
+README.md

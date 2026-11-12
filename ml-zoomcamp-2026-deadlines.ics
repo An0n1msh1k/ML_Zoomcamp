@@ -1,0 +1,142 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//DataTalks.Club//Course Management Platform//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+X-WR-CALNAME:Machine Learning Zoomcamp 2026 deadlines
+BEGIN:VEVENT
+UID:homework-116@courses.datatalks.club
+DTSTAMP:20260913T191900Z
+DTSTART:20260921T230000Z
+DTEND:20260921T233000Z
+SUMMARY:Machine Learning Zoomcamp 2026: Homework 1: Introduction to Machine Learning deadline
+DESCRIPTION:Homework deadline for Homework 1: Introduction to Machine Learning. Open the assignment: https://courses.datatalks.club/ml-zoomcamp-2026/homework/hw01
+URL:https://courses.datatalks.club/ml-zoomcamp-2026/homework/hw01
+END:VEVENT
+BEGIN:VEVENT
+UID:homework-117@courses.datatalks.club
+DTSTAMP:20260913T191900Z
+DTSTART:20260928T230000Z
+DTEND:20260928T233000Z
+SUMMARY:Machine Learning Zoomcamp 2026: Homework 2: Machine Learning for Regression deadline
+DESCRIPTION:Homework deadline for Homework 2: Machine Learning for Regression. Open the assignment: https://courses.datatalks.club/ml-zoomcamp-2026/homework/hw02
+URL:https://courses.datatalks.club/ml-zoomcamp-2026/homework/hw02
+END:VEVENT
+BEGIN:VEVENT
+UID:homework-118@courses.datatalks.club
+DTSTAMP:20260913T191900Z
+DTSTART:20261005T230000Z
+DTEND:20261005T233000Z
+SUMMARY:Machine Learning Zoomcamp 2026: Homework 3: Machine Learning for Classification deadline
+DESCRIPTION:Homework deadline for Homework 3: Machine Learning for Classification. Open the assignment: https://courses.datatalks.club/ml-zoomcamp-2026/homework/hw03
+URL:https://courses.datatalks.club/ml-zoomcamp-2026/homework/hw03
+END:VEVENT
+BEGIN:VEVENT
+UID:homework-119@courses.datatalks.club
+DTSTAMP:20260913T191900Z
+DTSTART:20261012T230000Z
+DTEND:20261012T233000Z
+SUMMARY:Machine Learning Zoomcamp 2026: Homework 4: Evaluation Metrics for Classification deadline
+DESCRIPTION:Homework deadline for Homework 4: Evaluation Metrics for Classification. Open the assignment: https://courses.datatalks.club/ml-zoomcamp-2026/homework/hw04
+URL:https://courses.datatalks.club/ml-zoomcamp-2026/homework/hw04
+END:VEVENT
+BEGIN:VEVENT
+UID:homework-120@courses.datatalks.club
+DTSTAMP:20260913T191900Z
+DTSTART:20261019T230000Z
+DTEND:20261019T233000Z
+SUMMARY:Machine Learning Zoomcamp 2026: Homework 5: Deploying Machine Learning Models deadline
+DESCRIPTION:Homework deadline for Homework 5: Deploying Machine Learning Models. Open the assignment: https://courses.datatalks.club/ml-zoomcamp-2026/homework/hw05
+URL:https://courses.datatalks.club/ml-zoomcamp-2026/homework/hw05
+END:VEVENT
+BEGIN:VEVENT
+UID:homework-121@courses.datatalks.club
+DTSTAMP:20260913T191900Z
+DTSTART:20261026T230000Z
+DTEND:20261026T233000Z
+SUMMARY:Machine Learning Zoomcamp 2026: Homework 6: Decision Trees and Ensemble Learning deadline
+DESCRIPTION:Homework deadline for Homework 6: Decision Trees and Ensemble Learning. Open the assignment: https://courses.datatalks.club/ml-zoomcamp-2026/homework/hw06
+URL:https://courses.datatalks.club/ml-zoomcamp-2026/homework/hw06
+END:VEVENT
+BEGIN:VEVENT
+UID:homework-122@courses.datatalks.club
+DTSTAMP:20260913T191900Z
+DTSTART:20261123T230000Z
+DTEND:20261123T233000Z
+SUMMARY:Machine Learning Zoomcamp 2026: Homework 8: Neural Networks and Deep Learning deadline
+DESCRIPTION:Homework deadline for Homework 8: Neural Networks and Deep Learning. Open the assignment: https://courses.datatalks.club/ml-zoomcamp-2026/homework/hw08
+URL:https://courses.datatalks.club/ml-zoomcamp-2026/homework/hw08
+END:VEVENT
+BEGIN:VEVENT
+UID:homework-123@courses.datatalks.club
+DTSTAMP:20260913T191900Z
+DTSTART:20261130T230000Z
+DTEND:20261130T233000Z
+SUMMARY:Machine Learning Zoomcamp 2026: Homework 9: Serverless Deep Learning deadline
+DESCRIPTION:Homework deadline for Homework 9: Serverless Deep Learning. Open the assignment: https://courses.datatalks.club/ml-zoomcamp-2026/homework/hw09
+URL:https://courses.datatalks.club/ml-zoomcamp-2026/homework/hw09
+END:VEVENT
+BEGIN:VEVENT
+UID:homework-124@courses.datatalks.club
+DTSTAMP:20260913T191900Z
+DTSTART:20261207T230000Z
+DTEND:20261207T233000Z
+SUMMARY:Machine Learning Zoomcamp 2026: Homework 10: Kubernetes deadline
+DESCRIPTION:Homework deadline for Homework 10: Kubernetes. Open the assignment: https://courses.datatalks.club/ml-zoomcamp-2026/homework/hw10
+URL:https://courses.datatalks.club/ml-zoomcamp-2026/homework/hw10
+END:VEVENT
+BEGIN:VEVENT
+UID:project-74-submission@courses.datatalks.club
+DTSTAMP:20260913T191900Z
+DTSTART:20261109T230000Z
+DTEND:20261109T233000Z
+SUMMARY:Machine Learning Zoomcamp 2026: Midterm Project submission deadline
+DESCRIPTION:Project submission deadline for Midterm Project. Open the project: https://courses.datatalks.club/ml-zoomcamp-2026/project/midterm
+URL:https://courses.datatalks.club/ml-zoomcamp-2026/project/midterm
+END:VEVENT
+BEGIN:VEVENT
+UID:project-74-peer-review@courses.datatalks.club
+DTSTAMP:20260913T191900Z
+DTSTART:20261116T230000Z
+DTEND:20261116T233000Z
+SUMMARY:Machine Learning Zoomcamp 2026: Midterm Project peer review deadline
+DESCRIPTION:Project peer review deadline for Midterm Project. Open the project: https://courses.datatalks.club/ml-zoomcamp-2026/project/midterm
+URL:https://courses.datatalks.club/ml-zoomcamp-2026/project/midterm
+END:VEVENT
+BEGIN:VEVENT
+UID:project-75-submission@courses.datatalks.club
+DTSTAMP:20260913T191900Z
+DTSTART:20270104T230000Z
+DTEND:20270104T233000Z
+SUMMARY:Machine Learning Zoomcamp 2026: Capstone 1 submission deadline
+DESCRIPTION:Project submission deadline for Capstone 1. Open the project: https://courses.datatalks.club/ml-zoomcamp-2026/project/capstone1
+URL:https://courses.datatalks.club/ml-zoomcamp-2026/project/capstone1
+END:VEVENT
+BEGIN:VEVENT
+UID:project-75-peer-review@courses.datatalks.club
+DTSTAMP:20260913T191900Z
+DTSTART:20270111T230000Z
+DTEND:20270111T233000Z
+SUMMARY:Machine Learning Zoomcamp 2026: Capstone 1 peer review deadline
+DESCRIPTION:Project peer review deadline for Capstone 1. Open the project: https://courses.datatalks.club/ml-zoomcamp-2026/project/capstone1
+URL:https://courses.datatalks.club/ml-zoomcamp-2026/project/capstone1
+END:VEVENT
+BEGIN:VEVENT
+UID:project-76-submission@courses.datatalks.club
+DTSTAMP:20260913T191900Z
+DTSTART:20270118T230000Z
+DTEND:20270118T233000Z
+SUMMARY:Machine Learning Zoomcamp 2026: Capstone 2 submission deadline
+DESCRIPTION:Project submission deadline for Capstone 2. Open the project: https://courses.datatalks.club/ml-zoomcamp-2026/project/capstone2
+URL:https://courses.datatalks.club/ml-zoomcamp-2026/project/capstone2
+END:VEVENT
+BEGIN:VEVENT
+UID:project-76-peer-review@courses.datatalks.club
+DTSTAMP:20260913T191900Z
+DTSTART:20270125T230000Z
+DTEND:20270125T233000Z
+SUMMARY:Machine Learning Zoomcamp 2026: Capstone 2 peer review deadline
+DESCRIPTION:Project peer review deadline for Capstone 2. Open the project: https://courses.datatalks.club/ml-zoomcamp-2026/project/capstone2
+URL:https://courses.datatalks.club/ml-zoomcamp-2026/project/capstone2
+END:VEVENT
+END:VCALENDAR
